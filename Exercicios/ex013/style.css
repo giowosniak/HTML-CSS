@@ -1,0 +1,19 @@
+body {
+    background-color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+    color: maroon;
+}
+
+h2 {
+    color: rgb(223, 86, 86);
+   
+}
+
+p {
+    font-size: 18px;
+    justify-content: center;
+}
